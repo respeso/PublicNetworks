@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/public_networks" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
